@@ -70,3 +70,6 @@ body {
   background-color: var(--botao-ativo);
   border-bottom: 4px solid var(--verde);
 }
+for (let i = 0; i < botoes.length; i++) {
+  console.log(i);
+}
